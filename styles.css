@@ -1,11 +1,35 @@
-h1 {
-    color: rgb(44, 136, 124);
-    background-color: rgb(222, 217, 226);
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Ubuntu:wght@400;700&display=swap');
+
+header {
+    margin: 0%;
+    font-family: "Montserrat", serif;
 }
+
+h1 {
+    font-size: 3em;
+        color: rgb(44, 136, 124);
+    background-color: rgba(106, 86, 122, 0.3);
+}
+
+body {
+    font-family: "Ubuntu", sans-serif;
+    color: #474747;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+ ul, ol {
+    list-style: none;
+    padding: 0%;
+}  
+
 
 #copyright {
     color: white;
-    font-size: 16px;
-    font-family: serif;
+    font-size: 1em;
+    font-family: "Ubuntu", sans-serif;
     background-color: rgb(97, 95, 95);
 }

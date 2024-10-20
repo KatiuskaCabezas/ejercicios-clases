@@ -14,4 +14,9 @@ Dentro del documento se incluyen: Logo, una imagen, video, formulario de contact
 Se crea un archivo style.css para dar estilo al documento
 Estilo en el header y footer
 
+# Styles
+
+Definición de tipográfia
+Color Tipografico
+Medida Tipográfca
 
